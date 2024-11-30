@@ -1,6 +1,6 @@
 # ava
 
-testing variuous chat bot setups for AVA
+testing various chat bot setups for AVA
 
 inital one uses chatgpt api and azure speech sdk , with either remote or local whisper for speech to text
 
@@ -40,3 +40,5 @@ https://github.com/astramind-ai/Auralis/tree/main
  python3.10 -m venv tts
  
  source tts/bin/activate
+
+user the requirements.txt to install, if issues with TTS try using pip install TTS directly.

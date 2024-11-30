@@ -11,6 +11,8 @@ tested piper but its very slow locally even on an RTX A6000 ADA
  
  web version using flask
 
+ generate a cert and key file.
+
 # cmdline
 
  python version
@@ -19,6 +21,9 @@ tested piper but its very slow locally even on an RTX A6000 ADA
 
  cpp version
 
+# xtts
+
+https://github.com/astramind-ai/Auralis/tree/main
 
 # python notes
 

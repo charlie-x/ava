@@ -22,13 +22,15 @@ tested piper but its very slow locally even on an RTX A6000 ADA
 
 # python notes
 
+ (3.10 failed with auralis) TTS  numpy/networkx incompatible versions, third re-setup on 3.11.
+
  sudo apt install software-properties-common -y
  
  sudo add-apt-repository ppa:deadsnakes/ppa
  
- sudo apt install python3.10
+ sudo apt install python3.11
  
- sudo apt-get install python3.10-venv
+ sudo apt-get install python3.11-venv
  
  python3.10 -m venv tts
  
